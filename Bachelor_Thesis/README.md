@@ -1,0 +1,2 @@
+questa è la mia tesi di laurea triennale dal titolo "Abductive Reasoning: A Literature Review of the State of
+the Art.". è stata una tesi unicamente teorica in cui è stata svolta una tassonomia di tutti i modelli basati sull'abductive learning: un framework innovativo che combina raionamente induttivo (machine learning) e ragionamento abduttivo (logical reasoning) 
