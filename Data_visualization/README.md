@@ -1,6 +1,6 @@
 # 📊 Data Visualization Project  
 
-This repository contains my **Data Visualization** course project.  
+This folder contains my **Data Visualization** course project.  
 🔗 **Interactive Dashboard:** [Click here to explore](https://lookerstudio.google.com/reporting/3b7be2ab-5eaf-4151-a284-5f9eb036c1d2?hl=en)  
 
 ### 🌍 Project Overview  
