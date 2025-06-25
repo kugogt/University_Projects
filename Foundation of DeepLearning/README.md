@@ -23,7 +23,7 @@ Two variants of the **U-Net** architecture were developed:
   - Strided Convolution;
   - Conv2DTranspose;
   - BatchNormalization; 
-  - Residual Skip Connection
+  - Residual Skip Connections.
 
 ### 📉 Loss Functions
 The models were trained using:
