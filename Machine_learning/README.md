@@ -1,7 +1,7 @@
 # 🏡 House Price Prediction – Machine Learning Pipeline in KNIME
 
 This project addresses a **supervised machine learning** task: predicting house prices using the  
-**"House Sales in King County, USA"** dataset from Kaggle.  
+**"House Sales in King County, USA"** dataset from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction).  
 
 The entire workflow was developed in **KNIME**, and the repository includes **images of the pipeline**.  
 *The KNIME file is available upon request.*
