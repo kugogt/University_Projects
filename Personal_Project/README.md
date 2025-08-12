@@ -54,5 +54,5 @@ The project uses the [**House Sales in King County, USA** dataset](https://www.k
 - `Data/` -> X_train and test & X_train and test after feature selection
 
 - ## 📬 Contact
-Since i cannot the training results on Github, if you need those results, message me!
+Since i cannot the training results on Github, if you need those, message me!
 
