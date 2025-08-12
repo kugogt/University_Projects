@@ -9,7 +9,7 @@ The entire workflow was developed in **KNIME**, and the repository includes **im
 ---
 
 💡 If you’re interested in my **Python implementation** of this project, you can find it here:  
-[📄 `Personal_Project/ML_python.ipynb`](Personal_Project/ML_python.ipynb)
+[📄 `Personal_Project/ML_python.ipynb`](../Personal_Project/ML_python.ipynb)
 [i'm very proud of it]
 
 ### ⚙️ Workflow Overview
