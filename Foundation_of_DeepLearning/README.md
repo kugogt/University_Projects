@@ -33,6 +33,4 @@ The models were trained using:
 ### 🔬 Experimentation
 Several training runs were conducted to compare performance across different configurations.
 
-![DeepLearning results]([https://github.com/user-attachments/assets/809646c0-8ef2-4abf-8504-4ea4b91faf66](https://github.com/user-attachments/assets/6a76d1ce-a2f6-4c04-b631-c554925b2270))
-
 <img width="1989" height="331" alt="__results___44_0" src="https://github.com/user-attachments/assets/6a76d1ce-a2f6-4c04-b631-c554925b2270" />
