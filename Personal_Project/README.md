@@ -8,6 +8,14 @@ The aim here is not to achieve *state-of-the-art* performance, but to build a **
 
 ---
 
+## 🚀 Goal
+The primary goal was to create a **clean and modular pipeline** that is:
+- Easy to understand
+- Reusable for other regression tasks
+- Flexible enough to adapt to new data
+
+---
+
 ## 📋 Project Scope
 This repository contains the **full machine learning workflow**, from raw data exploration to final model evaluation and interpretation, including:
 
@@ -41,14 +49,10 @@ The project uses the [**House Sales in King County, USA** dataset](https://www.k
 
 ---
 
-## 🚀 Goal
-The primary goal was to create a **clean and modular pipeline** that is:
-- Easy to understand
-- Reusable for other regression tasks
-- Flexible enough to adapt to new data
-
----
-
 ## 🗂️ Repository Structure
-- `notebooks/` → Jupyter notebooks for data exploration, preprocessing, and modeling
-- 
+- `ML_python.ipynb/` -> Jupyter notebooks for data exploration, preprocessing, and modeling
+- `Data/` -> X_train and test & X_train and test after feature selection
+
+- ## 📬 Contact
+Since i cannot the training results on Github, if you need those results, message me!
+
