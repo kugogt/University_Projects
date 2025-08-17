@@ -1,6 +1,6 @@
 # 🏡 King County House Price Prediction – Python Version
 
-Hello! 👋 This is my personal **Machine Learning** project, originally born from a university course where we didn’t use Python.  
+Ciao! 👋 This is my personal **Machine Learning** project, originally born from a university course where we didn’t use Python.  
 I decided to **rebuild the entire pipeline in Python** to deepen my understanding of the process.  
 
 Compared to the original KNIME version, this Python implementation adds several new components and improvements.  
