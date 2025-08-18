@@ -8,7 +8,7 @@ The entire workflow was developed in **KNIME**, and the repository includes **im
 
 ---
 
-💡 If you’re interested in my **Python implementation** of this project, you can find it here:  
+💡 If you’re interested in my **Python implementation (and MORE)** of this project, you can find it here:  
 [📄 `Personal_Project/ML_python.ipynb`](https://github.com/kugogt/Housing-Price-Prediction)
 
 ---
