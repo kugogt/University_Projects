@@ -3,6 +3,13 @@
 This project was developed as part of the *Foundations of Deep Learning* course, and focuses on **super-resolution and restoration of images**. 
 The goal is to train a deep learning model that can transform low-resolution, degraded images into high-resolution, clean counterparts.
 
+---
+
+💡 If you’re interested in an **upgrade** of this project, you can find it here:  
+[📄 `Link`](https://github.com/kugogt/SR-Restoration-images-U-Net)
+
+---
+
 ### 📦 Dataset & Pre-Process
 The model was trained on the **IAPR TC-12** dataset.
 The core of the project involves training a model on pairs of images: a high-resolution (HR) original and a synthetically degraded low-resolution (LR) version. The model learns to reverse the degradation process, effectively "upscaling" and "cleaning" the input.
